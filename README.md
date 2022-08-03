@@ -1,12 +1,12 @@
 # Python Simple Single File POS (No Database)
 
 <div align="center">
-  <img src="https://i.imgur.com/OZtIS9Y.png" width="600" height="200"/>
+  <img src="https://i.imgur.com/OZtIS9Y.png" width="600" height="250"/>
 </div>
 
 Used with Dictionary and List to store data.
 
-Made for commission.
+Made with 💕 for commission.
 
 ## Progress
 
