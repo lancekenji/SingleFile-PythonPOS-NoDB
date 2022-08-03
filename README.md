@@ -6,6 +6,8 @@
 
 Used with Dictionary and List to store data.
 
+Made for commission.
+
 ## Progress
 
 - ✅ Create
